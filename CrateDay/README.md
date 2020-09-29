@@ -1,4 +1,4 @@
-#CrateDay
+# CrateDay
 
 A script written in Python which calculates how many days until the next Crate Day.
 This is intended to run on a web server - the result is printed as html.
