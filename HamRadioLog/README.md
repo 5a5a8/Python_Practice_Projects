@@ -9,19 +9,19 @@ Run the program with 'python HamRadioLog.py'
 ## Profiles
 Profiles allow you to autofill most of your data during an operating session.
 You can start a profile with your data, such as your callsign, frequencies, and modes.
-When you make a contact using this profile, you will only have to enter your contacts callsign, name, and any notes about the contact.
+When you make a contact using this profile, you will only have to enter your contact's callsign, name, and any notes about the contact.
 Profiles can be edited from the main screen. Adding, editing, and deleting profiles should be self-explanatory.
 
 ## Log Previous QSOs
 If you made some contacts outside of an operating session, you can log them manually here.
-You will need to enter the date manually, formatted as DD MMHHz Mon YY.
+You will need to enter the date manually, formatted as DD HHMMz Mon YY.
 You will also need to manually enter any other details about the contact.
 
 ## Profiled Operating Session
 Profiled sessions work best when you know you will be working a specific frequency and mode for a period of time.
 For example if you know you're about to spend an hour on 147.500 FM Simplex, you can choose a profile with that set up.
 When someone contacts you during a session, you just push s, and all of that data is filled automatically in the log.
-The time of the contact will be logged automatically, you will only have to enter any data not covered by the profile (callsign, name, notes).
+The date time group of the contact will also be logged automatically, you will only have to enter any data not covered by the profile (callsign, name, notes).
 
 ## Non-Profiled Operating Session
 This is similar to a profiled operating session, but you will have to enter all information except for the time manually.
