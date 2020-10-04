@@ -17,10 +17,15 @@ def get_domains(domains_file = 'domains.txt'):
 def test_domain(domain):
 	try:
 		response = requests.get(domain)
-		return response.status_code == requests.codes.ok
+		if response.status_code == requests.codes.ok:
+			return True
+		else:
+			domain_down(domain)
+			return False
 	except: 
 		domain_down(domain)
 		return False
+	
 	
 
 #if a domain goes down, log it and notify the user
