@@ -21,5 +21,8 @@ Logbook for amateur radio operators
 ## HashCrack
 For cracking hashes using brute force or dictionary
 
+## PyBenford
+Checks if a given data set matches Benford's law
+
 ## PyTOTP
 TOTP passcode generator written to learn more about TOTP
