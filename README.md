@@ -16,13 +16,16 @@ Monitors if specified websites are up or down.
 A program written to call the GoSweetSpot API to create shipping labels.
 
 ## HamRadioLog
-Logbook for amateur radio operators
+Logbook for amateur radio operators.
 
 ## HashCrack
-For cracking hashes using brute force or dictionary
+For cracking hashes using brute force or dictionary.
+
+## PassMan
+A password manager using bcrypt/Fernet, which can also check for breached passwords.
 
 ## PyBenford
-Checks if a given data set matches Benford's law
+Checks if a given data set matches Benford's law.
 
 ## PyTOTP
-TOTP passcode generator written to learn more about TOTP
+TOTP passcode generator written to learn more about TOTP.
