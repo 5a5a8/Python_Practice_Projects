@@ -20,6 +20,7 @@ Logbook for amateur radio operators.
 
 ## HashCrack
 For cracking hashes using brute force or dictionary.
+Not finished.
 
 ## PassMan
 A password manager using bcrypt/Fernet, which can also check for breached passwords.
@@ -29,3 +30,6 @@ Checks if a given data set matches Benford's law.
 
 ## PyTOTP
 TOTP passcode generator written to learn more about TOTP.
+
+## StegTool
+Hides text or files in PNG images using LSB steganography.
