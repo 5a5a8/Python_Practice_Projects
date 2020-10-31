@@ -24,8 +24,3 @@ Their documentation indicates we generally can expect about 500 suffixes in retu
 We prepend the first 5 characters of our hash to each one and check it against the full hash.
 If we get a match, the password was breached.
 It will also tell you how many times said password was breached.
-
-## Misc.
-I'll probably work on skill development for a little while now. 
-I'm happy with how this project went.
-It's probably time to finish my python book.

@@ -1,0 +1,64 @@
+From: example@example-test.com
+From: exa_mple1+filter@example.com
+From: example2@example.co.uk
+From: example-13@gmail.com
+From: example@yahoo.com
+From: example.example54@protonmail.com
+From: john.smith@yahoo.com
+From: bob@wikipedia.com
+From: smith@wikipedia.com
+From: tim@apple.com
+robert @invalid.com
+https://github.com
+www.wikipedia.com
+https://google.com
+https://reddit.com
+https://wikipedia.com
+http://nossl.com.au
+https://ebay.com.au
+www.trademe.co.nz
+www.facebook.com
+https://facebook.com/profile
+cfcd208495d565ef66e7dff9f98764da
+f899139df5e1059396431415e770c6dd
+3644a684f98ea8fe223c713b77189a77
+94f6d7e04a4d452035300f18b984988c
+18d8042386b79e2c279fd162df0205c8
+cee631121c2ec9232f3a2f028ad5c89b
+d490d7b4576290fa60eb31b5fc917ad1
+e5841df2166dd424a57127423d276bbe
+7a53928fa4dd31e82c6ef826f341daec
+acf4b89d3d503d8252c9c4ba75ddbf6d
+acf41sfeij3829dcefa3829bacfed12d
+67hijk909bdecrfa12846de29874bace
+acf41sfeij3829dcefa3829bacfed12d44def
+The quick brown fox jumps over the lazy dog.
+Mary had a little lamb.
+Its fleece electrostatic.
+And everywhere that Mary went.
+The lights became erratic.
+1: $250.12
+2: $500.0
+3: $750.00
+4: $1000.10
+5: $10000.10
+6: $10,000.34
+7: $20000000.00
+8: $20.22
+9: $542.98
+10: $20,000,000.99
+this is some text 192.168.20.15
+121.10.10.15 this is some more text
+this is 21.21.22.23: even more text
+connection $from 109.223.231.19- what is going on
+yet.another.ip.105.102.12.1.address
+205.21.1.123/255
+some.text/192.1.1.23/128
+12/6/2020/205.255.23.14/128
+25.6.2020/192.168.20.5/255/23
+66.12.192.243/128
+256.128.15.22
+this is more text 192.168.305.16
+some.text/and/an.905.233.543.899/299.invalid/ip
+905.304.12.16
+-111.111.111/255-

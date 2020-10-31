@@ -18,3 +18,5 @@ For example if you know the file contains a message you might call this message.
 If you know the image contains a zip file you might call this file.zip.
 
 If no message or file is found in the image, it will dump all of the LSB information to your outfile as hex.
+
+Written 2020-10-25.

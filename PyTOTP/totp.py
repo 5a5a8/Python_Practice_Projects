@@ -21,7 +21,7 @@ while True:
 	#get the last 4 bits as a decimal integer
 	lastFourBits = int(fullHash[-1], 16)
 
-	#use the last 4 bits as an index in the hash (dynamic truncation)
+	#use the last 4 bits as an index in the hash (dynamic truncation, which it would seem doesn't actually add security)
 	rawCode = fullHash[2*lastFourBits:2*lastFourBits+8]
 	print('\n\tCode: ' + str(int(rawCode, 16))[-7:-1] + '\n'*20)
 
