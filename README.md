@@ -1,10 +1,14 @@
 # Python_Practice_Projects
 Practice projects written while learning python.
 
-Some of these are finished. Some are not finished. Some will not be finished. 
+Note that these may not contain complete documentation and may not validate user input.
+Some of these are finished. 
+Some are not finished. 
+Some will not be finished. 
 
 I don't really make code changes once something is in here.
-It makes it easier to look back and see my learning progress that way.
+It makes it easier to see my learning progress that way.
+If I decide to make one of these into a proper project where I make further changes, I'll do it in a separate repository.
 
 ## CrateDay
 A bit of a joke project which calculates the amount of time until the next crate day.
@@ -42,3 +46,6 @@ A tool for learning and revising regular expressions.
 
 ## StegTool
 Hides text or files in PNG images using LSB steganography.
+
+## WordListBuilder
+Scrapes a webpage for words to use in a wordlist.
