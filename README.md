@@ -3,11 +3,17 @@ Practice projects written while learning python.
 
 Some of these are finished. Some are not finished. Some will not be finished. 
 
+I don't really make code changes once something is in here.
+It makes it easier to look back and see my learning progress that way.
+
 ## CrateDay
 A bit of a joke project which calculates the amount of time until the next crate day.
 
 ## DeckWorkout
 Creates workouts similar to the 'deck of cards' workout.
+
+## DoNotRun
+A virus written to learn about how malware propagates.
 
 ## Down_Monitor
 Monitors if specified websites are up or down.
