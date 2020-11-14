@@ -13,6 +13,9 @@ If I decide to make one of these into a proper project where I make further chan
 ## CrateDay
 A bit of a joke project which calculates the amount of time until the next crate day.
 
+## CryptoJournal
+Keep encrypted journals and sync with Dropbox.
+
 ## DeckWorkout
 Creates workouts similar to the 'deck of cards' workout.
 
