@@ -10,6 +10,9 @@ I don't really make code changes once something is in here.
 It makes it easier to see my learning progress that way.
 If I decide to make one of these into a proper project where I make further changes, I'll do it in a separate repository.
 
+## Blockchain
+Simple blockchain written to learn more about how cryptocurrencies work.
+
 ## CrateDay
 A bit of a joke project which calculates the amount of time until the next crate day.
 
