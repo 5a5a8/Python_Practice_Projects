@@ -1,13 +1,8 @@
 # PassMan
-Mary had a little lamb/Its fleece electrostatic.
-And everywhere Mary went/The lights became erratic.
 
 This is password manager written in Python.
 It was written for learning purposes, if you are going to use it with real data, do so at your own risk.
 I certainly won't be using it.
-
-There is some hidden data in there.
-Let me know if you can find it, it shouldn't be too hard.
 
 ## Authentication
 We use bcrypt for authentication and key derivation.
