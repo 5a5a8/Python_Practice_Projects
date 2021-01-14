@@ -1,5 +1,4 @@
 # PyBenford
-Try to learn to let what is unfair teach you.
 
 This analyses a file and prints a plot of the first digit occurrence percentages versus the percentage occurrences we would expect from something that matched Benford's law.
 
