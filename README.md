@@ -13,9 +13,6 @@ If I decide to make one of these into a proper project where I make further chan
 ## Blockchain
 Simple blockchain written to learn more about how cryptocurrencies work.
 
-## CrateDay
-A bit of a joke project which calculates the amount of time until the next crate day.
-
 ## CryptoJournal
 Keep encrypted journals and sync with Dropbox.
 
