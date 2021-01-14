@@ -7,9 +7,6 @@ The encrypted file is then sent to dropbox.
 All of the local files are removed.
 This software can also do the above in reverse, to get your files back.
 
-This will eventually be moved to its own repository, but there is more work to do before then.
-This is not really a public release.
-
 
 ## Installation
 `pip install -r requirements.txt`
@@ -51,6 +48,3 @@ The `.md` files will be removed from your local system.
 The idea is to run `cjournal --pull` to retrieve and decrypt them.
 
 There are also the arguments `--localpush` and `--localpull` which do the same as the above, but don't send to dropbox.
-
-## Misc.
-This version written and released on 2020-Nov-14.
