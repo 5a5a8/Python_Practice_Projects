@@ -2,7 +2,7 @@
 A project I wrote to hide messages and files within PNG images.
 It uses Least Significant Bit (LSB) steganography for this.
 
-It was written on a dusty Sunday afternoon and is heavily inspired by [this article.](https://medium.com/swlh/lsb-image-steganography-using-python-2bbbee2c69a2)
+This is heavily inspired by [this article.](https://medium.com/swlh/lsb-image-steganography-using-python-2bbbee2c69a2)
 
 If you're going to be using this for actual steganography, I suggest you encrypt your data before hiding it.
 
